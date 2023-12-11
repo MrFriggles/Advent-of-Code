@@ -1,4 +1,4 @@
-# Advent Of Code 2022
+# Advent Of Code
 
 ## How to build
 Once the repository has been cloned and entered:
