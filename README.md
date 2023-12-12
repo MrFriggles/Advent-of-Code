@@ -10,5 +10,5 @@ From there, the executable `aoc` will be built.
 
 ## Usage
 ```
-# aoc -d<1..24> | -a/--all
+# aoc [-d/--day=<day> | -a/--all]
 ```
