@@ -1,6 +1,6 @@
 #include "AoC.h"
 
-Day::Day(uint8_t day) : m_day(d)ay
+Day::Day(uint8_t day) : m_day(day)
 { 
     std::cout << "Day " << m_day << ".\n\n";
     std::cout << "Running first task...\n";

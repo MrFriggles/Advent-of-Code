@@ -5,16 +5,16 @@ class Day3 : Day
    Day3();
    ~Day3();
 
-   override void RunSilver();
-   override void RunGold();
-}
+   void RunSilver() override;
+   void RunGold() override;
+};
 
-override void Day3::RunSilver()
+void Day3::RunSilver()
 {
 
 }
 
-override void Day3::RunGold()
+void Day3::RunGold()
 {
 
 }
